@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ATM.ico</file>
+        <file>login.ico</file>
+    </qresource>
+</RCC>
